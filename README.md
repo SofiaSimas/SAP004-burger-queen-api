@@ -70,6 +70,7 @@ O _deploy_ para produção deverá ser feito utilizando um serviço de hospedage
 * [PostgreSQL - documentação em português para a versão 8](http://pgdocptbr.sourceforge.net/pg80/index.html)
 * [Exemplo](https://github.com/danielbdias/rest-api-with-db-in-nodejs) de aplicação construída com NodeJS e Postgres, por Daniel Dias
 * [Artigo sobre MVC](https://www.profissionaisti.com.br/2014/10/o-conceito-e-as-duvidas-sobre-o-mvc/)
+* [Video - MVC](https://www.youtube.com/watch?v=JCloD5-QTns&t)
 * Documentação do [Postman](https://learning.getpostman.com/docs/postman/launching-postman/introduction/)
 * [Vídeo](https://www.youtube.com/watch?v=nSO12ItKDds) sobre como utilizar o Postman (até o minuto 10)
 * [Outro vídeo](https://www.youtube.com/watch?v=rI9rhM6iJoI) sobre como utilizar o Postman
